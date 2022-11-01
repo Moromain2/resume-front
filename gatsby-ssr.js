@@ -11,6 +11,6 @@ export const wrapPageElement = ({ element }) => (
     </AnimatePresence>
 )
 
-export const shouldUpdateScroll = () => {
-    return false
-}
+// export const shouldUpdateScroll = () => {
+//     return false
+// }
